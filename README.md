@@ -12,7 +12,7 @@ chromosome representation is as follows:
 
     - For continuous features, the part corresponding to it in the chromosome, has three sub-parts. first is the limit value for that feature, second is the lower bound for it and third value is the upper bound for this feature. The condition on this feature is as follows: if lower bound < feature value < upper bound
 
-    - limit parameter controls the presence of each feature in the rule represented by each chromosome. if limit value for feature i is greater or equal than the value of LIMIT parameter specified for algorithm, then the condition on feature i will be in the rule, otherwise it won't be in the rule.
+    - limit parameter controls the presence of each feature in the rule represented by each chromosome. if limit value for feature i is greater or equal to the value of LIMIT parameter specified for algorithm, then the condition on feature i will be in the rule, otherwise it won't be in the rule.
 
     - the algorithm will extract rules for each class.
 
