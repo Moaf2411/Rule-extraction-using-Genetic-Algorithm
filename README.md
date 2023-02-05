@@ -20,6 +20,6 @@ Here is a pseudocode for GARule function.
 
 <img src="/pseudocode.png" alt="pseudocode of algorithm" title="pseudocode">
 
-Below is some rules extracted from iris dataset, fitness column show each rule's accuracy.
+Below is some rules extracted from iris dataset, fitness column shows each rule's accuracy.
 
 <img src="/rules.JPG" alt="rules extracted from iris dataset." title="iris dataset.">
