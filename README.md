@@ -22,4 +22,4 @@ Here is a pseudocode for GARule function.
 
 Below is some rules extracted from iris dataset, fitness column show each rule's accuracy.
 
-<img src="/rules.jpg" alt="rules extracted from iris dataset." title="iris dataset.">
+<img src="/rules.JPG" alt="rules extracted from iris dataset." title="iris dataset.">
