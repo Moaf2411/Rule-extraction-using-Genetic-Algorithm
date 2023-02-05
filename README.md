@@ -16,8 +16,10 @@ chromosome representation is as follows:
 
     - the algorithm will extract rules for each class.
 
-Here is the pseudocode for GARule function.
+Here is the a pseudocode for GARule function.
+
 <img src="/pseudocode.png" alt="pseudocode of algorithm" title="pseudocode">
 
 Below is some rules extracted from iris dataset, fitness column show each rule's accuracy.
+
 <img src="/rules.jpg" alt="rules extracted from iris dataset." title="iris dataset.">
