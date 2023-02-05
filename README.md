@@ -16,7 +16,7 @@ chromosome representation is as follows:
 
     - the algorithm will extract rules for each class.
 
-Here is the a pseudocode for GARule function.
+Here is a pseudocode for GARule function.
 
 <img src="/pseudocode.png" alt="pseudocode of algorithm" title="pseudocode">
 
